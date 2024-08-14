@@ -1,0 +1,13 @@
+numpy
+pandas
+cv
+matplotlib
+seaborn
+bokeh
+albumentations
+keras
+tensorflow
+torch
+tqdm
+mrcnn
+
