@@ -2,3 +2,5 @@
 natural_scene_data.npz
 natural-scene-data.zip
 ODL Group4 Data.zip
+models/MLP/checkpoints/best_mlp_model.keras
+models/MLP/checkpoints/mlp_model.keras

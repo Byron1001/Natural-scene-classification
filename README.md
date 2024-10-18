@@ -6,27 +6,27 @@ Data source:
 
 ## Convolutional Neural Network (CNN)
 ### Training result
-![CNN Training](Report_Screenshots/CustomCNNmodel/5:1.png "CNN Training")
+![CNN Training](Report_Screenshots/CustomCNNmodel/0501.png "CNN Training")
 ### Classification report
-![CNN Classification report](Report_Screenshots/CustomCNNmodel/6:2.png "CNN Classification report")
+![CNN Classification report](Report_Screenshots/CustomCNNmodel/0602.png "CNN Classification report")
 ### Testing
-![CNN Testing](Report_Screenshots/CustomCNNmodel/30.png "CNN Testing")
+![CNN Testing](Report_Screenshots/CustomCNNmodel/3000.png "CNN Testing")
 
 ## Multi-Layer Perceptron (MLP)
 ### Training result
-![MLP Training](Report_Screenshots/CustomCNNmodel/5:1.png "MLP Training")
+![MLP Training](Report_Screenshots/MLP_model/7.png "MLP Training")
 ### Classification report
-![MLP Classification report](Report_Screenshots/CustomCNNmodel/6:2.png "MLP Classification report")
+![MLP Classification report](Report_Screenshots/MLP_model/9.png "MLP Classification report")
 ### Testing
-![MLP Testing](Report_Screenshots/CustomCNNmodel/30.png "MLP Testing")
+![MLP Testing](Report_Screenshots/MLP_model/35.png "MLP Testing")
 
 ## Recurrent Neural Network (RNN)
 ### Training result
-![RNN Training](Report_Screenshots/CustomCNNmodel/5:1.png "RNN Training")
+![RNN Training](Report_Screenshots/RNN_model/Result_1.png "RNN Training")
 ### Classification report
-![RNN Classification report](Report_Screenshots/CustomCNNmodel/6:2.png "RNN Classification report")
+![RNN Classification report](Report_Screenshots/RNN_model/Result_3.png "RNN Classification report")
 ### Testing
-![RNN Testing](Report_Screenshots/CustomCNNmodel/30.png "RNN Testing")
+![RNN Testing](Report_Screenshots/RNN_model/Result_19.png "RNN Testing")
 
 ## Model Comparison
 ![Model Comparison](Report_Screenshots/comparison.png "Model Comparison")
